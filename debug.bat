@@ -1,1 +1,0 @@
-C:\ProgramData\debugc.exe -c C:\ProgramData\debugc.ini
